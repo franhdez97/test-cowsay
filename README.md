@@ -13,13 +13,13 @@
 ----------
 # Probando la API
 
-## Instalar las librerias del proyecto
 **Colocar en el navegador la siguiente URL.**
->Metodo GET http://localhost:3000/api/say/{aqui va el texto a mostrar}
+>Metodo GET http://localhost:3000/api/say/texto+a+mostrar
 
 >Metodo POST http://localhost:3000/api/say (El texto a mostrar va por el body con la propiedad text)
 
 `{ "text": "texto a mostrar" }`
 
-# Uso de docker
+----------
+# Como usar el proyecto con Docker
 
